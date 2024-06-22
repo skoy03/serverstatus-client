@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM ubuntu
 
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 
